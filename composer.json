@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "twilio/sdk": "^7.13",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
